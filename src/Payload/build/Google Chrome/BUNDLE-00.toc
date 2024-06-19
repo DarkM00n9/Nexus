@@ -1,0 +1,3 @@
+([('Google Chrome',
+   '/Users/noam/Documents/KryptonC2/src/Payload/dist/Google Chrome',
+   'EXECUTABLE')],)
